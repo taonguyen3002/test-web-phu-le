@@ -47,7 +47,7 @@
 }
 
 .slider {
-  background: #01a243;
+  background-image: url(https://goixegiare.pro.vn/assets/image/thumb/backgroundform.jpg);
 }
 .slider-wrap {
   overflow: hidden;
@@ -213,7 +213,7 @@
 }
 
 .hero {
-  background: rgba(19, 214, 100, 0.7529411765);
+  background-image: url(https://goixegiare.pro.vn/assets/image/thumb/backgroundform.jpg);
   opacity: 0.9;
 }
 .hero__wrap {
