@@ -13,5 +13,8 @@
     font-weight: 700;
     font-size: 2.2rem;
     color: var(--logo-title-color);
+    @include abstracts.screen(sm) {
+      font-size: 1.8rem;
+    }
   }
 }

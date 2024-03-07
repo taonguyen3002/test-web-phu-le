@@ -45,6 +45,11 @@
   font-size: 2.2rem;
   color: var(--logo-title-color);
 }
+@media (max-width: 575.98px) {
+  .logo__title {
+    font-size: 1.8rem;
+  }
+}
 
 .slider {
   background-image: url(https://goixegiare.pro.vn/assets/image/thumb/backgroundform.jpg);
@@ -53,7 +58,6 @@
   overflow: hidden;
 }
 .slider__list {
-  animation: slideimg 30s infinite;
   display: flex;
 }
 .slider__media {
@@ -71,35 +75,6 @@
   height: 100%;
 }
 
-@keyframes slideimg {
-  0% {
-    transform: translateX(0);
-  }
-  20% {
-    transform: translateX(0);
-  }
-  25% {
-    transform: translateX(-100%);
-  }
-  45% {
-    transform: translateX(-100%);
-  }
-  50% {
-    transform: translateX(-200%);
-  }
-  70% {
-    transform: translateX(-200%);
-  }
-  75% {
-    transform: translateX(-100%);
-  }
-  95% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(0);
-  }
-}
 .btn {
   display: flex;
   align-items: center;
