@@ -4,21 +4,21 @@
         "@type": "Article",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://hotrodatxe24h.online/post/grabtamhiep"
+          "@id": "https://datxetructuyen.click/post/grabtamhiep"
         },
         "headline": "Tổng đài Grab Tam Hiệp Biên Hòa",
         "image": [
-          "https://hotrodatxe24h.online/assets/image/thumb/slider1.jpg",
-          "https://hotrodatxe24h.online/assets/image/thumb/grabgiaohang-3.jpg"
+          "https://datxetructuyen.click/assets/image/thumb/slider1.jpg",
+          "https://datxetructuyen.click/assets/image/thumb/grabgiaohang-3.jpg"
          ],
         "datePublished": "2023-12-06T14:18:31+00:00",
         "dateModified": "2023-12-06T14:18:31+00:00",
         "publisher": {
           "@type": "Organization",
-          "name": "https://hotrodatxe24h.online",
+          "name": "https://datxetructuyen.click",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://hotrodatxe24h.online/assets/image/thumb/logo.png"
+            "url": "https://datxetructuyen.click/assets/image/thumb/logo.png"
           }
         },
         "description": "Tổng đài Grab Tam Hiệp Biên Hòa là số điện thoại mà khách hàng có thể gọi để khiếu nại, phản hồi, hỗ trợ và giải đáp các thắc mắc liên quan đến dịch vụ của Grab.
@@ -31,21 +31,21 @@
         "@type": "Article",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://hotrodatxe24h.online/post/grabtamhiep"
+          "@id": "https://datxetructuyen.click/post/grabtamhiep"
         },
         "headline": "Ưu điểm của Grab Tam Hiệp",
         "image": [
-          "https://hotrodatxe24h.online/assets/image/thumb/slider1.jpg",
-          "https://hotrodatxe24h.online/assets/image/thumb/grabgiaohang-3.jpg"
+          "https://datxetructuyen.click/assets/image/thumb/slider1.jpg",
+          "https://datxetructuyen.click/assets/image/thumb/grabgiaohang-3.jpg"
          ],
         "datePublished": "2023-12-06T14:18:31+00:00",
         "dateModified": "2023-12-06T14:18:31+00:00",
         "publisher": {
           "@type": "Organization",
-          "name": "https://hotrodatxe24h.online",
+          "name": "https://datxetructuyen.click",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://hotrodatxe24h.online/assets/image/thumb/logo.png"
+            "url": "https://datxetructuyen.click/assets/image/thumb/logo.png"
           }
         },
         "description": "Tiết kiệm thời gian và công sức: Với việc đặt xe chỉ trong vài phút, người dùng không cần phải tìm kiếm xe hay gọi điện thoại để đặt xe như trước đây.
@@ -60,21 +60,21 @@
         "@type": "Article",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://hotrodatxe24h.online/post/grabtamhiep"
+          "@id": "https://datxetructuyen.click/post/grabtamhiep"
         },
         "headline": "Grab xe máy Biên Hòa",
         "image": [
-          "https://hotrodatxe24h.online/assets/image/thumb/slider1.jpg",
-          "https://hotrodatxe24h.online/assets/image/thumb/grabgiaohang-3.jpg"
+          "https://datxetructuyen.click/assets/image/thumb/slider1.jpg",
+          "https://datxetructuyen.click/assets/image/thumb/grabgiaohang-3.jpg"
          ],
         "datePublished": "2023-12-06T14:18:31+00:00",
         "dateModified": "2023-12-06T14:18:31+00:00",
         "publisher": {
           "@type": "Organization",
-          "name": "https://hotrodatxe24h.online",
+          "name": "https://datxetructuyen.click",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://hotrodatxe24h.online/assets/image/thumb/logo.png"
+            "url": "https://datxetructuyen.click/assets/image/thumb/logo.png"
           }
         },
         "description": "Grab xe máy Biên Hòa là dịch vụ đặt xe ôm của Grab tại thành phố Biên Hòa. Với hơn 1000 tài xế xe máy trong khu vực, bạn có thể dễ dàng tìm được tài xế và đặt xe bất cứ lúc nào. Điều này giúp bạn tiết kiệm thời gian và di chuyển thuận tiện trong thành phố."
@@ -86,21 +86,21 @@
         "@type": "Article",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://hotrodatxe24h.online/post/grabtamhiep"
+          "@id": "https://datxetructuyen.click/post/grabtamhiep"
         },
         "headline": "Grab taxi Biên Hòa",
         "image": [
-          "https://hotrodatxe24h.online/assets/image/thumb/slider1.jpg",
-          "https://hotrodatxe24h.online/assets/image/thumb/grabgiaohang-3.jpg"
+          "https://datxetructuyen.click/assets/image/thumb/slider1.jpg",
+          "https://datxetructuyen.click/assets/image/thumb/grabgiaohang-3.jpg"
          ],
         "datePublished": "2023-12-06T14:18:31+00:00",
         "dateModified": "2023-12-06T14:18:31+00:00",
         "publisher": {
           "@type": "Organization",
-          "name": "https://hotrodatxe24h.online",
+          "name": "https://datxetructuyen.click",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://hotrodatxe24h.online/assets/image/thumb/logo.png"
+            "url": "https://datxetructuyen.click/assets/image/thumb/logo.png"
           }
         },
         "description": "Grab taxi Biên Hòa là dịch vụ đặt xe taxi của Grab tại thành phố Biên Hòa. Với hơn 500 tài xế taxi trong khu vực, bạn có thể dễ dàng tìm được xe và đặt chuyến đi của mình. Điều này giúp bạn di chuyển thuận tiện và an toàn trong thành phố."
