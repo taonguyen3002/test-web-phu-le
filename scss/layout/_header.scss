@@ -1,46 +1,94 @@
 @use "../abstracts";
 .header {
-  &__main {
-    height: 70px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #fff;
+  &__container {
+    padding-top: 10px;
+  }
+  &__content {
+    background: #8f3aff;
+    color: #fff;
     padding: 10px 0;
   }
-  &__inner {
+  &__list {
+    height: 30px;
+    text-align: center;
+    display: flex;
     align-items: center;
-    @include abstracts.screen(lg) {
-      justify-content: space-between;
+    justify-content: space-between;
+    @include abstracts.screen(md) {
+      gap: 10px;
+    }
+  }
+  &__item {
+    font-weight: 500;
+    font-size: 1.8rem;
+    line-height: 1.6;
+    padding: 10px;
+    @include abstracts.screen(md) {
+      padding: 10px 5px;
+      font-size: 1.8rem;
+      &-wrap {
+        border: 1px solid var(--primary-color-3);
+        border-radius: 10px;
+      }
     }
   }
 }
-.navbar {
+.topbar {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   @include abstracts.screen(md) {
-    display: none;
+    justify-content: center;
   }
-  margin-left: 100px;
-  @include abstracts.screen(lg) {
-    margin-left: 0;
-  }
-  &__link {
-    font-size: 1.9rem;
-    font-weight: 600;
-    color: var(--navbar-link-color);
-    padding: 10px 20px;
-    @include abstracts.screen(lg) {
-      padding: 10px;
-      font-size: 1.7rem;
-      word-wrap: normal;
+  &__logo {
+    &-inner {
+      border-radius: 999px;
+      border: 1px solid #8f3aff;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      @include abstracts.screen(md) {
+        gap: 10px;
+      }
+    }
+    &-icon {
+      display: block;
+      width: 100%;
+      object-fit: contain;
+    }
+    &-icon-wrap {
+      flex: 1;
+      width: 50px;
+      overflow: hidden;
+      border-radius: 999px;
+    }
+    &-name {
+      font-weight: 600;
+      font-size: 2.6rem;
+      line-height: 1.5;
+      padding: 0 15px;
+      color: #8f3aff;
+      @include abstracts.screen(md) {
+        font-size: 2.2rem;
+      }
     }
   }
-  &__item--gt {
-    @include abstracts.screen(lg) {
-      display: none;
-    }
+
+  &__user-list {
+    display: flex;
+    align-items: center;
   }
-}
-.menu-mobile {
-  &-icon {
-    display: none;
+  &__user-icon,
+  &__menu-icon {
     width: 40px;
-    filter: var(--menu-mobile-filter);
+  }
+  &__user-icon {
+    display: none;
     @include abstracts.screen(md) {
       display: block;
     }

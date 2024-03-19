@@ -1,4 +1,3 @@
-@use "../abstracts";
 *,
 ::after,
 ::before {
@@ -13,9 +12,6 @@ body {
   font-size: 1.6rem;
   font-family: "Open Sans", sans-serif;
 }
-.booking-online {
-  margin-top: 20px;
-}
 a {
   color: inherit;
   text-decoration: none;
@@ -28,9 +24,6 @@ button {
   background: none;
   cursor: pointer;
 }
-.icon {
-  filter: var(--icon-color);
-}
 textarea,
 button,
 input,
@@ -38,9 +31,25 @@ select {
   color: inherit;
   font-family: inherit;
 }
-.container {
-  @include abstracts.screen(md) {
-    padding-left: 20px !important;
-    padding-right: 20px !important;
+.icon {
+  filter: brightness(0) saturate(100%) invert(31%) sepia(33%) saturate(7319%)
+    hue-rotate(253deg) brightness(97%) contrast(108%);
+}
+.separate {
+  width: 60vw;
+  height: 1.5px;
+  background: var(--primary-color-2);
+  margin: 30px auto;
+  border-radius: 999px;
+}
+.text {
+  &--bold {
+    font-weight: 700;
+  }
+  &--large {
+    font-size: 2.4rem;
+  }
+  &--blue {
+    color: blue;
   }
 }

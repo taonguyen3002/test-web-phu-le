@@ -1,27 +1,25 @@
 .btn {
+  font-weight: 500;
+  font-size: 1.8rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 46px;
+  height: 40px;
   padding: 0 20px;
-  border-radius: 6px;
-
-  background: #f8f8fb;
-
-  font-size: 1.8rem;
-  font-weight: 500;
-  user-select: none;
+  border-radius: 5px;
   + .btn {
     margin-left: 20px;
   }
+}
+.btn {
   &--text {
     color: #9e9da8;
     background: transparent;
     font-weight: 400;
   }
   &--primary {
-    color: #f8f8f8;
-    background: #0051ff;
+    color: #ffffff;
+    background: #8f3aff;
   }
   &--rounded {
     border-radius: 99px;
